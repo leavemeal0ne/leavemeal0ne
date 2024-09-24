@@ -1,5 +1,9 @@
-## Hi there 👋
+## Welcome to My GitHub Profile 👋
 
+🎓 Graduate of KPI, Bachelor of Computer Engineering
+🔍 Interested in: web development with GO, ML methods and technologies
+
+#### [🛠️ Key Projects](https://github.com/leavemeal0ne/leavemeal0ne/blob/main/PROJ.md)
 <!--
 **leavemeal0ne/leavemeal0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
