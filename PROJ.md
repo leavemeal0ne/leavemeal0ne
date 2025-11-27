@@ -1,5 +1,8 @@
 ## 🛠️ Key Projects
 
+### [💾 **Real Estate Datalake**]([https://github.com/leavemeal0ne/Golang-2023](https://github.com/leavemeal0ne/real_estate_datalake))
+Project topic: Automated collection, cleaning, and analysis of Kyiv rent postings from LUN.
+
 ### [📦 **CRM for Advertising Agency**](https://github.com/leavemeal0ne/Web_Services_Infrastructure/tree/lab4_with_ui)
 This project was aimed at working with Doсker and Doсker-Сompose. Containerization of the Client and Server parts and their interaction with different types of databases. The Server part was developed using the Controller-Service-Repository pattern.
 
